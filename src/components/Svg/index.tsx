@@ -27,6 +27,7 @@ export { default as NftFillIcon } from "./Icons/NftFill";
 export { default as NftIcon } from "./Icons/Nft";
 export { default as PancakeRoundIcon } from "./Icons/PancakeRound";
 export { default as PoolIcon } from "./Icons/Pool";
+export { default as ReferralIcon } from "./Icons/Pool";
 export { default as RedditIcon } from "./Icons/Reddit";
 export { default as ResourcesFilledIcon } from "./Icons/ResourcesFilled";
 export { default as ResourcesIcon } from "./Icons/Resources";
